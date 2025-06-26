@@ -16,7 +16,7 @@ else
 end
 
 -- Sahip kontrolü
-local owner = content:match("owner=(.-)\n?") or ""
+local owner = string.match(content, "owner=(%w+)")
 if owner ~= "7dksbpxuw8" then
     player:Kick("Unauthorized GitHub owner.")
     return
